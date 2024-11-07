@@ -18,12 +18,14 @@ I believe that every line of code tells a story. My journey in programming is dr
 
 ---
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo)](https://github.com/ryo-ma/github-profile-trophy)
-<!--
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+<!--
+light : [![trophy](https://github-profile-trophy.vercel.app/?username=ryo)](https://github.com/ryo-ma/github-profile-trophy)
+
+dark : [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rudra-404)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rudra-404)](https://github.com/anuraghazra/github-readme-stats)
 -->
