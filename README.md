@@ -2,7 +2,7 @@
 
 I believe that every line of code tells a story. My journey in programming is driven by a blend of creativity and logic, where I transform my ideas into reality.
 
-- 🌱 I’m currently learning Backend Development 
+- 🌱 I’m currently learning Mobile App Development 
 - 👯 I’m looking to collaborate on GitHub 
 - 📫 How to reach me: rudrakaiser840@gmail.com
 
