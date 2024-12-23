@@ -29,14 +29,14 @@ dark : [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&them
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rudra-404)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
-## My Experties 
-
 <div id="experties">
+
+## My Experties 
 
 ### Languages :
 | C | C++ | JS | Python |
 |---|-----|----|--------|
-|  <a href="https://github.com/rudra-404/PROJECTS" onclick="return false;"><img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C"  alt="C" width="55" height="55"/></a> | <a href="https://github.com/rudra-404/PROJECTS" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++"  alt="C++" width="55" height="55"/></a> | <a href="https://github.com/rudra-404/PROJECTS" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/></a> | <a href="https://github.com/rudra-404/PROJECTS" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/></a> |
+|  <a href="#experties"><img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C"  alt="C" width="55" height="55"/></a> | <a href="https://github.com/rudra-404/PROJECTS" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++"  alt="C++" width="55" height="55"/></a> | <a href="https://github.com/rudra-404/PROJECTS" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/></a> | <a href="https://github.com/rudra-404/PROJECTS" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/></a> |
 
 
 ### OS :
