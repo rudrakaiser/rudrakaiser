@@ -58,7 +58,7 @@ dark : [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&them
 -->
 
 <p align="center">
- <img width="1000" src="assets/snake.svg" alt="snake"/>
+ <a href="#experties"><img width="1000" src="assets/snake.svg" alt="snake"/></a>
 </p>
 
 
