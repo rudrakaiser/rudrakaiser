@@ -30,9 +30,9 @@ dark : [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&them
 -->
 
 ## My Experties 
-<div>
 
 <div id="experties">
+
 ### Languages :
 | C | C++ | JS | Python |
 |---|-----|----|--------|
@@ -46,6 +46,8 @@ dark : [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&them
 | <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original.svg" title="Ubuntu" alt="Ubuntu" width="55" height="55"/> | <img src="https://github.com/canaleal/devicon/blob/new-icon-kali-linux/icons/kalilinux/kalilinux-original-wordmark.svg" title="Linux" alt="Linux" width="55" height="55"/> |
 
 ---
+
+</div>
 
 
 <!--
