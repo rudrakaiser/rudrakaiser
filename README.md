@@ -36,7 +36,7 @@ dark : [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&them
 ### Languages :
 | C | C++ | JS | Python |
 |---|-----|----|--------|
-|  <a href="https://github.com/rudra-404/PROJECTS" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C"  alt="C" width="55" height="55"/></a> |  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++"  alt="C++" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> |
+|  <a href="https://github.com/rudra-404/PROJECTS" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C"  alt="C" width="55" height="55"/></a> | <a href="https://github.com/rudra-404/PROJECTS" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++"  alt="C++" width="55" height="55"/></a> | <a href="https://github.com/rudra-404/PROJECTS" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/></a> | <a href="https://github.com/rudra-404/PROJECTS" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/></a> |
 
 
 ### OS :
