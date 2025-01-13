@@ -41,9 +41,9 @@ dark : [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&them
 
 ### OS :
 
-| Windows | Linux |
-|---------|-------|
-| <a href="#experties"><img src="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original.svg" title="Windows" alt="Windows" width="55" height="55"/></a> | <a href="#experties"><img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="55" height="55"/></a> |
+| Windows | Linux | Android |
+|---------|-------|---------|
+| <a href="#experties"><img src="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original.svg" title="Windows" alt="Windows" width="55" height="55"/></a> | <a href="#experties"><img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="55" height="55"/></a> | <a href="#experties"><img src="https://github.com/devicons/devicon/blob/master/icons/android/android-plain.svg" title="Android" alt="Android" width="55" height="55"/></a> |
 
 ---
 
