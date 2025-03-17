@@ -1,6 +1,7 @@
 ![Frontend Developer](assets/rudra-kaiser.png)
 
-I believe that every line of code tells a story. My journey in programming is driven by a blend of creativity and logic, where I transform my ideas into reality.
+- I believe that every line of code tells a story.
+- My journey in programming is driven by a blend of creativity and logic, where I transform my ideas into reality.
 
 <!--
 - I’m currently learning Mobile App Development
