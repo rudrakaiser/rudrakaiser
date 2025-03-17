@@ -2,9 +2,11 @@
 
 I believe that every line of code tells a story. My journey in programming is driven by a blend of creativity and logic, where I transform my ideas into reality.
 
+<!--
 - I’m currently learning Mobile App Development
 - I’m looking to collaborate on GitHub
 - How to reach me: rudrakaiser840@gmail.com
+-->
 
 | [<img src="https://github.com/rudra-404/rudra-404/blob/main/assets/github_icon.svg" alt='GitHub' height='40'>](https://github.com/rudra-404) | [<img src="https://github.com/CLorant/readme-social-icons/blob/main/large/colored/linkedin.svg" alt='LinkedIn' height='40'>](https://www.linkedin.com/in/rudra-kaiser-931b5b2b0) | [<img src="https://github.com/CLorant/readme-social-icons/blob/main/large/colored/facebook.svg" alt='facebook' height='40'>](https://www.facebook.com/johan.edal) | [<img src="https://github.com/CLorant/readme-social-icons/blob/main/large/colored/instagram.svg" alt='Instagram' height='40'>](https://www.instagram.com/rudra.kaiser?igsh=YmkzZ281anAzZWRu/) | [<img src="https://github.com/rudra-404/rudra-404/blob/main/assets/beecrowd_logo.png" alt='BeeCrowd' height='40'>](https://judge.beecrowd.com/en/profile/987444) | [<img src="https://github.com/rudra-404/rudra-404/blob/main/assets/hacker_rank_colored.svg" alt='HackerRank' height='40'>](http://www.hackerrank.com/profile/rudrakaiser90) | [<img src="https://github.com/rudra-404/rudra-404/blob/main/assets/codeforces_colored_icon.svg" alt='CodeForces' height='40'>](https://codeforces.com/profile/rudra_kaiser) |
 |-|-|-|-|-|-|-|
