@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Kanit&duration=3000&pause=1000&color=37BDBD&width=435&lines=Competitive+Programmer;Problem+Solver;Detail+Oriented;Good+Listener;Self+Learner)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Kanit&duration=6000&pause=1000&color=37BDBD&width=435&lines=Competitive+Programmer;Problem+Solver;Self+Learner;Good+Listener;Detail+Oriented)](https://git.io/typing-svg)
 
 ![Frontend Developer](assets/rudra-kaiser.png)
 
