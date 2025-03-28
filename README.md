@@ -1,6 +1,6 @@
 <h1 align="center">Hi I'm Rudra Kaiser</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7FF&lines=Competetive+Programmer;Machine+Learning+Enthusiasts&center=true&width=500&height=45" alt="Tonmoyhridhaan">
+  <img src="https://readme-typing-svg.demolab.com/?font=Kanit&duration=4000&pause=500&color=37BDBD&width=435&lines=Competitive+Programmer;Problem+Solver;Self+Learner;Good+Listener;Detail+Oriented;Continuous+Learner&center=true&width=500&height=45" alt="rudra-404">
 </p>
 <!--
 ![Typing SVG](https://readme-typing-svg.demolab.com/?font=Kanit&duration=4000&pause=500&color=37BDBD&width=435&lines=Competitive+Programmer;Problem+Solver;Self+Learner;Good+Listener;Detail+Oriented;Continuous+Learner)
