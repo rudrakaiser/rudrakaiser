@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.demolab.com/?font=Kanit&duration=3000&pause=1000&color=37BDBD&width=435&lines=Competitive+Programmer;Problem+Solver;Self+Learner;Good+Listener;Detail+Oriented;Continuous+Learner)
+![Typing SVG](https://readme-typing-svg.demolab.com/?font=Kanit&duration=2000&pause=1000&color=37BDBD&width=435&lines=Competitive+Programmer;Problem+Solver;Self+Learner;Good+Listener;Detail+Oriented;Continuous+Learner)
 
 <!-- https://git.io/typing-svg -->
 
