@@ -1,9 +1,12 @@
 <p align="center">
-  ![Typing SVG](https://readme-typing-svg.demolab.com/?font=Kanit&duration=4000&pause=500&color=37BDBD&width=435&lines=Competitive+Programmer;Problem+Solver;Self+Learner;Good+Listener;Detail+Oriented;Continuous+Learner)
   <img src="https://readme-typing-svg.demolab.com/?font=Kanit&duration=4000&pause=500&color=37BDBD&width=435&lines=Competitive+Programmer;Problem+Solver;Self+Learner;Good+Listener;Detail+Oriented;Continuous+Learner">
 </p>
 
-<!-- https://git.io/typing-svg -->
+<!--
+https://git.io/typing-svg
+
+![Typing SVG](https://readme-typing-svg.demolab.com/?font=Kanit&duration=4000&pause=500&color=37BDBD&width=435&lines=Competitive+Programmer;Problem+Solver;Self+Learner;Good+Listener;Detail+Oriented;Continuous+Learner)
+-->
 
 ![Frontend Developer](assets/rudra-kaiser.png)
 
