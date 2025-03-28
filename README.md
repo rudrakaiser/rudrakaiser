@@ -1,6 +1,9 @@
 <h1 align="center">
   <font color="#007BFF">Hi I'm <b>Rudra Kaiser</font>
 </h1>
+<h2 align="center">
+  <font color="#007BFF"><b>Hi 👋, I'm Mishkat</b></font>
+</h2>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?font=Kanit&duration=4000&pause=1000&color=37BDBD&width=435&lines=Competitive+Programmer;Problem+Solver;Self+Learner;Good+Listener;Detail+Oriented;Continuous+Learner&center=true&width=500&height=45" alt="rudra-404" />
 </p>
