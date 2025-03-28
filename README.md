@@ -4,6 +4,7 @@
 <!--
 ![Typing SVG](https://readme-typing-svg.demolab.com/?font=Kanit&duration=4000&pause=500&color=37BDBD&width=435&lines=Competitive+Programmer;Problem+Solver;Self+Learner;Good+Listener;Detail+Oriented;Continuous+Learner)
 https://git.io/typing-svg -->
+
 ![Frontend Developer](assets/rudra-kaiser.png)
 
 - I believe that every line of code tells a story.
