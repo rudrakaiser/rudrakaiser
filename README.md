@@ -1,6 +1,6 @@
 <h1 align="center">
   <font color="#007BFF">
-    Hi <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> I'm Rudra Kaiser
+    Hi <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> I'm <b>Rudra Kaiser</b>
   </font>
 </h1>
 <p align="center">
