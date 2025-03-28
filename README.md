@@ -1,10 +1,9 @@
 <h1 align="center">Hi <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> I'm Rudra Kaiser</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Kanit&duration=4000&pause=1000&color=37BDBD&width=435&lines=Competitive+Programmer;Problem+Solver;Self+Learner;Good+Listener;Detail+Oriented;Continuous+Learner&center=true&width=500" alt="rudra-404" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Kanit&duration=4000&pause=1000&color=37BDBD&width=435&lines=Competitive+Programmer;Problem+Solver;Self+Learner;Good+Listener;Detail+Oriented;Continuous+Learner&center=true&width=500&height=45" alt="rudra-404" />
 </p>
 <!--
 ![Typing SVG](https://readme-typing-svg.demolab.com/?font=Kanit&duration=4000&pause=500&color=37BDBD&width=435&lines=Competitive+Programmer;Problem+Solver;Self+Learner;Good+Listener;Detail+Oriented;Continuous+Learner)
-
 https://git.io/typing-svg -->
 
 ![Frontend Developer](assets/rudra-kaiser.png)
