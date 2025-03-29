@@ -27,7 +27,7 @@ Hi there! 👋 I'm a **competitive programmer** and **problem solver** passionat
 
 <table align="center">
   <tr>
-    <th colspan="8">Explore My Work</th>
+    <th colspan="8"><img src="./assets/pointing.gif" width="30px" align="center"> Explore My Work</th>
   </tr>
   <tr>
     <td align="center">
