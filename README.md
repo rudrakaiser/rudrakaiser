@@ -10,7 +10,7 @@ https://git.io/typing-svg -->
 Bannar
 ![Frontend Developer](assets/bannar.png)
 -->
-<img src="assets/writing_hand.gif"> I believe that every line of code tells a story.
+<img src="assets/writing_hand.gif" heigth="20px"> I believe that every line of code tells a story.
 - My journey in programming is driven by a blend of creativity and logic, where I transform my ideas into reality.
 
 I'm a Competitive Programmer and Problem Solver passionate about algorithms, data structures, and optimization. I love tackling coding challenges and refining my problem-solving skills. Currently, I'm pursuing my <b>Bachelor's degree</b> in
