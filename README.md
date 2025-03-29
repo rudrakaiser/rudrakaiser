@@ -22,8 +22,8 @@ https://git.io/typing-svg -->
 -->
 
 <table align="center">
-  <tr colspan="8">
-    <th>My Profiles</th>
+  <tr>
+    <th colspan="8">My Profiles</th>
   </tr>
   <tr>
     <td>
