@@ -73,6 +73,11 @@ I'm a **Competitive Programmer** and **Problem Solver** passionate about algorit
         <img src="https://github.com/CLorant/readme-social-icons/blob/main/large/colored/instagram.svg" alt='Instagram' height='40'>
       </a>
     </td>
+    <td>
+      <a href="https://www.youtube.com/@rudrakaiser">
+        <img src="assets/youtube.svg" alt='YouTube' height='40'>
+      </a>
+    </td>
   </tr>
 </table>
 
