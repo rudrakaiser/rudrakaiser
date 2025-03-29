@@ -141,7 +141,7 @@ GitHub : Trophie
 
 
 <p align="center">
- <a href="#experties"><img width="1000" src="assets/snake.svg" alt="snake"/></a>
+ <a href="#"><img width="1000" src="assets/snake.svg" alt="snake"/></a>
 </p>
 
 <!--
