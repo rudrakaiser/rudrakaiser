@@ -16,17 +16,6 @@ I'm a **Competitive Programmer** and **Problem Solver** passionate about algorit
 - I believe that every line of code tells a story.
 - My journey in programming is driven by a blend of creativity and logic, where I transform my ideas into reality.
 
-<!--
-- I’m currently learning Mobile App Development
-- I’m looking to collaborate on GitHub
-- How to reach me: rudrakaiser840@gmail.com
--->
-
-<!--
-| [<img src="https://github.com/rudra-404/rudra-404/blob/main/assets/github_icon.svg" alt='GitHub' height='40'>](https://github.com/rudra-404) | [<img src="https://github.com/CLorant/readme-social-icons/blob/main/large/colored/linkedin.svg" alt='LinkedIn' height='40'>](https://www.linkedin.com/in/rudra-kaiser-931b5b2b0) | [<img src="https://github.com/CLorant/readme-social-icons/blob/main/large/colored/facebook.svg" alt='facebook' height='40'>](https://www.facebook.com/johan.edal) | [<img src="https://github.com/CLorant/readme-social-icons/blob/main/large/colored/instagram.svg" alt='Instagram' height='40'>](https://www.instagram.com/rudra.kaiser?igsh=YmkzZ281anAzZWRu/) | [<img src="https://github.com/rudra-404/rudra-404/blob/main/assets/beecrowd_logo.png" alt='BeeCrowd' height='40'>](https://judge.beecrowd.com/en/profile/987444) | [<img src="https://github.com/rudra-404/rudra-404/blob/main/assets/hacker_rank_colored.svg" alt='HackerRank' height='40'>](http://www.hackerrank.com/profile/rudrakaiser90) | [<img src="https://github.com/rudra-404/rudra-404/blob/main/assets/codeforces_colored_icon.svg" alt='CodeForces' height='40'>](https://codeforces.com/profile/rudra_kaiser) |
-|-|-|-|-|-|-|-|
--->
-
 <br>
 <table align="center">
   <tr>
@@ -126,8 +115,6 @@ dark : [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&them
 <p align="center"><a href="https://codeforces.com/profile/rudra_kaiser"><img align="center" src="https://codeforces-readme-stats.vercel.app/api/card?username=rudra_kaiser&theme=radical&disable_animations=false&show_icons=true&force_username=true" alt="rudra_kaiser" /></a></p>
 <!-- This Section : https://codeforces-readme-stats.vercel.app/ -->
 
-[![rudra_kaiser's atcoder stats](https://atcoder-readme-stats.vercel.app/stats/rudra_kaiser)](https://github.com/iwbc-mzk/atcoder-readme-stats)
-
 
 <p align="center"><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rudra-404&theme=vision_friendly_dark" alt="rudra-404" /> &nbsp; <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rudra-404&theme=vision_friendly_dark" alt="rudra-404" /></p>
 <!-- This Section : https://github-profile-summary-cards.vercel.app/  theme : vision_friendly_dark-->
@@ -136,13 +123,6 @@ dark : [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&them
 GitHub : Trophie
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=rudra-404&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="rudra-404" /> </p>
 -->
-
-<!-- This Section : https://gprm.itsvg.in -->
-
-<!--
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=rudra-404&theme=blue-green&hide_border=true&include_all_commits=true&count_private=true" alt="rudra-404" /></p>
--->
-
 <!-- This Section : https://gprm.itsvg.in -->
 
 
