@@ -11,18 +11,15 @@ Bannar
 ![Frontend Developer](assets/bannar.png)
 -->
 
-<heading>
-  <style>
-  table, th, td {
-    border: none !important;
-  }
-</style>
-</heading>
-
 <table>
   <tr>
     <td style="text-align: justify">
-      I'm a Competitive Programmer and Problem Solver passionate about algorithms, data structures, and optimization. I love tackling coding challenges and refining my problem-solving skills. Currently, I'm pursuing my Bachelor's degree in Computer Science & Engineering at Premier University.
+      <pre>
+        I'm a Competitive Programmer and Problem Solver passionate about algorithms,
+        data structures, and optimization. I love tackling coding challenges and refining
+        my problem-solving skills. Currently, I'm pursuing my <b>Bachelor's degree</b> in
+        <b>Computer Science & Engineering</b> at <b>Premier University</b>.
+      </pre>
     </td>
     <td>
       <img src="assets/code.gif" alt='CODE'>
