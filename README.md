@@ -12,6 +12,11 @@ Bannar
 -->
 
 <table>
+  <style>
+  table, th, td {
+    border: none !important;
+  }
+</style>
   <tr>
     <td style="text-align: justify">
       I'm a Competitive Programmer and Problem Solver passionate about algorithms, data structures, and optimization. I love tackling coding challenges and refining my problem-solving skills. Currently, I'm pursuing my Bachelor's degree in Computer Science & Engineering at Premier University.
