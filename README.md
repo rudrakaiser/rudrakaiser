@@ -22,7 +22,9 @@ https://git.io/typing-svg -->
 -->
 
 <table align="center">
-  <caption>My Profiles</caption>
+  <tr>
+    <th>My Profiles</th>
+  </tr>
   <tr>
     <td>
       <a href="https://codeforces.com/profile/rudra_kaiser">
