@@ -11,7 +11,7 @@ Bannar
 ![Frontend Developer](assets/bannar.png)
 -->
 
-I'm a **Competitive Programmer** and **Problem Solver** passionate about algorithms, data structures, and optimization. Currently, I'm pursuing my **Bachelor’s degree in Computer Science & Engineering** at <b><a href="https://puc.ac.bd/" style="text-decoration: none;">Premier University</a></b>.  
+I'm a **Competitive Programmer** and **Problem Solver** passionate about algorithms, data structures, and optimization. Currently, I'm pursuing my **Bachelor’s degree in Computer Science & Engineering** at <b><a href="https://puc.ac.bd/" style="text-decoration: none">Premier University</a></b>.  
 
 - I believe that every line of code tells a story.
 - My journey in programming is driven by a blend of creativity and logic, where I transform my ideas into reality.
