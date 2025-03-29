@@ -119,6 +119,8 @@ dark : [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&them
 
 <p align="center"> <a href="#"><img src="https://github-profile-trophy.vercel.app/?username=rudra-404&theme=vision-friendly-dark" alt="rudra-404" /></a></p>
 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rudra-404&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="rudra-404" /></p>
+
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rudra-404&show_icons=true&locale=en&theme=vision-friendly-dark" alt="rudra-404" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rudra-404&theme=vision-friendly-dark" alt="rudra-404" /></p>
