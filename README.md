@@ -22,7 +22,7 @@ Bannar
       </ul>
     </td>
     <td>
-      <a href="#"><img src="assets/code.gif" alt='CODE' width="400px"/></a>
+      <a href="#"><img src="assets/code.gif" alt='CODE'/></a>
     </td>
   </tr>
 </table>
