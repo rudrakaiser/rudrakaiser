@@ -22,6 +22,11 @@ Bannar
   </tr>
 </table>
 
+<div>
+  <div>I'm a Competitive Programmer and Problem Solver passionate about algorithms, data structures, and optimization. I love tackling coding challenges and refining my problem-solving skills. Currently, I'm pursuing my Bachelor's degree in Computer Science & Engineering at Premier University.</div>
+  <div><img src="assets/code.gif" alt='CODE'></div>
+</div>
+
 - I believe that every line of code tells a story.
 - My journey in programming is driven by a blend of creativity and logic, where I transform my ideas into reality.
 
