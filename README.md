@@ -23,7 +23,7 @@ https://git.io/typing-svg -->
 
 <table align="center">
   <tr>
-    <th colspan="8">My Profiles</th>
+    <th colspan="8">Explore My Work</th>
   </tr>
   <tr>
     <td align="center">
@@ -65,11 +65,6 @@ https://git.io/typing-svg -->
       <a href="https://www.instagram.com/rudra.kaiser?igsh=YmkzZ281anAzZWRu/">
         <img src="https://github.com/CLorant/readme-social-icons/blob/main/large/colored/instagram.svg" alt='Instagram' height='40'>
       </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://codeforces.com/profile/rudra_kaiser">CodeForces</a>
     </td>
   </tr>
 </table>
