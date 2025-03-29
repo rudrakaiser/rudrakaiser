@@ -112,8 +112,7 @@ dark : [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&them
 <p align="center"><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rudra-404&theme=codeSTACKr" alt="rudra-404" /></p>
 <!-- This Section : https://github-profile-summary-cards.vercel.app/  theme : vision_friendly_dark-->
 
-## 💻 Competitive Programming (CodeForces)
-
+<h1 align="center">CodeForces</h1><br>
 <p align="center"><a href="https://codeforces.com/profile/rudra_kaiser"><img align="center" src="https://codeforces-readme-stats.vercel.app/api/card?username=rudra_kaiser&theme=radical&disable_animations=false&show_icons=true&force_username=true" alt="rudra_kaiser" /></a></p>
 <!-- This Section : https://codeforces-readme-stats.vercel.app/ -->
 
