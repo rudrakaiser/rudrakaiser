@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="assets/hi_man.gif" width="40px" align="center"> I'm Rudra Kaiser</h1>
+<h1 align="center">Hi <a href="#"><img src="assets/hi_man.gif" width="40px" align="center"></a> I'm Rudra Kaiser</h1>
 
 <p align="center"><a href="#"><img src="https://readme-typing-svg.demolab.com/?font=Kanit&duration=4000&pause=1000&color=37BDBD&width=435&lines=Competitive+Programmer;Problem+Solver;Self+Learner;Good+Listener;Detail+Oriented;Continuous+Learner&center=true&width=500&height=30" alt="rudra-404"></a></a></p>
 <!--
