@@ -25,17 +25,27 @@ https://git.io/typing-svg -->
   <tr>
     <td>
       <a href="https://codeforces.com/profile/rudra_kaiser">
-        <img src="https://github.com/rudra-404/rudra-404/blob/main/assets/codeforces_colored_icon.svg" alt='CodeForces' height='40'>
+        <img src="https://github.com/rudra-404/rudra-404/blob/main/assets/codeforces.svg" alt='CodeForces' height='40'>
+      </a>
+    </td>
+    <td>
+      <a href="https://atcoder.jp/users/rudra_kaiser">
+        <img src="https://github.com/rudra-404/rudra-404/blob/main/assets/atcoder.svg" alt='AtCoder' height='40'>
+      </a>
+    </td>
+    <td>
+      <a href="https://leetcode.com/u/rudra_kaiser/">
+        <img src="https://github.com/rudra-404/rudra-404/blob/main/assets/leetcode.svg" alt='AtCoder' height='40'>
       </a>
     </td>
     <td>
       <a href="http://www.hackerrank.com/profile/rudrakaiser90">
-        <img src="https://github.com/rudra-404/rudra-404/blob/main/assets/hacker_rank_colored.svg" alt='HackerRank' height='40'>
+        <img src="https://github.com/rudra-404/rudra-404/blob/main/assets/hackerrank.svg" alt='HackerRank' height='40'>
       </a>
     </td>
     <td>
       <a href="https://judge.beecrowd.com/en/profile/987444">
-        <img src="https://github.com/rudra-404/rudra-404/blob/main/assets/beecrowd_logo.png" alt='BeeCrowd' height='40'>
+        <img src="https://github.com/rudra-404/rudra-404/blob/main/assets/beecrowd.png" alt='BeeCrowd' height='40'>
       </a>
     </td>
     <td>
