@@ -121,23 +121,10 @@ dark : [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&them
 <!-- This Section : https://gprm.itsvg.in -->
 
 <p align="center"><img align="center" src="https://nirzak-streak-stats.vercel.app/?user=rudra-404&theme=blue-green&hide_border=true" alt="rudra-404" /> &nbsp; <img align="center" src="https://github-readme-stats.vercel.app/api?username=rudra-404&theme=blue-green&hide_border=true&include_all_commits=true&count_private=true" alt="rudra-404" /></p>
-
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rudra-404&theme=vision-friendly-dark" alt="rudra-404" /></p>
-
-<!-- This Section : https://rahuldkjain.github.io/gh-profile-readme-generator/ -->
 <!-- This Section : https://gprm.itsvg.in -->
 
----
-
-# 📊 GitHub Stats:
-![]()<br/>
-![]()<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rudra-404&theme=blue-green&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=rudra-404&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudra-404&theme=blue-green&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="rudra-404" /></p>
+<!-- This Section : https://gprm.itsvg.in -->
 
 ---
 
