@@ -106,8 +106,8 @@ dark : [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&them
 
 <br>
 
-<p align="center"><a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudra-404&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="rudra-404" /></a> &nbsp; <a href="#"><img align="center" src="https://nirzak-streak-stats.vercel.app/?user=rudra-404&theme=black-ice&hide_border=false" alt="rudra-404" /></a></p>
-<!-- This Section : https://gprm.itsvg.in -->
+<p align="center"><a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudra-404&theme=black-ice&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="rudra-404" /></a> &nbsp; <a href="#"><img align="center" src="https://nirzak-streak-stats.vercel.app/?user=rudra-404&theme=black-ice&hide_border=false" alt="rudra-404" /></a></p>
+<!-- This Section : https://gprm.itsvg.in   theme : highcontrast-->
 
 <p align="center"><a href="#"><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rudra-404&theme=codeSTACKr" alt="rudra-404" /></a></p>
 <!-- This Section : https://github-profile-summary-cards.vercel.app/  theme : vision_friendly_dark-->
