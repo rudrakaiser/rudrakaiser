@@ -123,6 +123,9 @@ dark : [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&them
 <p align="center"><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rudra-404&theme=codeSTACKr" alt="rudra-404" /></p>
 <!-- This Section : https://github-profile-summary-cards.vercel.app/  theme : vision_friendly_dark-->
 
+<p align="center"><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rudra-404&theme=vision_friendly_dark" alt="rudra-404" /> &nbsp; <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rudra-404&theme=vision_friendly_dark" alt="rudra-404" /></p>
+<!-- This Section : https://github-profile-summary-cards.vercel.app/  theme : vision_friendly_dark-->
+
 <!--
 GitHub : Trophie
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=rudra-404&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="rudra-404" /> </p>
