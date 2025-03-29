@@ -11,24 +11,13 @@ Bannar
 ![Frontend Developer](assets/bannar.png)
 -->
 
-<table>
-  <tr>
-    <td>
-      I'm a Competitive Programmer and Problem Solver passionate about algorithms, data structures, and optimization. I love tackling coding challenges and refining my problem-solving skills. Currently, I'm pursuing my <b>Bachelor's degree</b> in
-<b>Computer Science & Engineering</b> at <b>Premier University</b>.<br><br>
-      <ul>
-        <li>I believe that every line of code tells a story.</li><br>
-        <li>My journey in programming is driven by a blend of creativity and logic, where I transform my ideas into reality.</li>
-      </ul>
-    </td>
-    <td>
-      <a href="#"><img src="assets/code.gif" alt='CODE'/></a>
-    </td>
-  </tr>
-</table>
+I'm a Competitive Programmer and Problem Solver passionate about algorithms, data structures, and optimization. I love tackling coding challenges and refining my problem-solving skills. Currently, I'm pursuing my <b>Bachelor's degree</b> in
+<b>Computer Science & Engineering</b> at <b>Premier University</b>.
 
 - I believe that every line of code tells a story.
 - My journey in programming is driven by a blend of creativity and logic, where I transform my ideas into reality.
+
+<!-- <a href="#"><img src="assets/code.gif" alt='CODE'/></a> -->
 
 <br>
 <table align="center">
