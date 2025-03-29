@@ -69,7 +69,7 @@ https://git.io/typing-svg -->
   </tr>
   <tr>
     <td>
-      <a href"https://codeforces.com/profile/rudra_kaiser">CodeForces</a>
+      <a href="https://codeforces.com/profile/rudra_kaiser">CodeForces</a>
     </td>
   </tr>
 </table>
