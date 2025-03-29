@@ -31,6 +31,7 @@ https://git.io/typing-svg -->
         <img src="https://github.com/rudra-404/rudra-404/blob/main/assets/codeforces.svg" alt='CodeForces' height='40'>
       </a>
     </td>
+    <td>CodeForces</td>
     <td>
       <a href="https://atcoder.jp/users/rudra_kaiser">
         <img src="https://github.com/rudra-404/rudra-404/blob/main/assets/atcoder.svg" alt='AtCoder' height='40'>
