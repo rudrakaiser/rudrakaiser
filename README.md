@@ -68,7 +68,9 @@ https://git.io/typing-svg -->
     </td>
   </tr>
   <tr>
-    <td>CodeForces</td>
+    <td>
+      <a href"https://codeforces.com/profile/rudra_kaiser">CodeForces</a>
+    </td>
   </tr>
 </table>
 
