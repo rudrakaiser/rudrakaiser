@@ -115,6 +115,18 @@ dark : [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&them
 </p>
 -->
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=rudra-404&label=Profile%20views&color=0e75b6&style=flat" alt="rudra-404" /> </p>
+
+<p align="center"> <a href="#"><img src="https://github-profile-trophy.vercel.app/?username=rudra-404&theme=vision-friendly-dark" alt="rudra-404" /></a> </p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rudra-404&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="rudra-404" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rudra-404&show_icons=true&locale=en&theme=vision-friendly-dark" alt="rudra-404" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rudra-404&theme=vision-friendly-dark" alt="rudra-404" /></p>
+
+---
+
 <p align="center">
  <a href="#experties"><img width="1000" src="assets/snake.svg" alt="snake"/></a>
 </p>
@@ -126,17 +138,3 @@ dark : [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&them
 Dev Icon Link  :  https://github.com/devicons/devicon/blob/master/icons/
 
 -->
-
----
-
-<h3 align="center">A passionate frontend developer from India</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rudra-404&label=Profile%20views&color=0e75b6&style=flat" alt="rudra-404" /> </p>
-
-<p align="left"> <a href="#"><img src="https://github-profile-trophy.vercel.app/?username=rudra-404&theme=vision-friendly-dark" alt="rudra-404" /></a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rudra-404&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="rudra-404" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rudra-404&show_icons=true&locale=en&theme=vision-friendly-dark" alt="rudra-404" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rudra-404&theme=vision-friendly-dark" alt="rudra-404" /></p>
