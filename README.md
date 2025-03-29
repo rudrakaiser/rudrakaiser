@@ -138,6 +138,10 @@ GitHub : Trophie
  <a href="#"><img width="1000" src="assets/snake.svg" alt="snake"/></a>
 </p>
 
+<p align="center">
+  <a href="#"><img align="center" src="assets/effect.gif" alt='CODE'" alt="rudra-404" /></a>
+</p>
+
 <!--
 Dev Icon Link  :  https://github.com/devicons/devicon/blob/master/icons/
 -->
