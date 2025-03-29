@@ -22,7 +22,7 @@ https://git.io/typing-svg -->
 -->
 
 <table align="center">
-  <tr>
+  <tr rowspan="5">
     <th>My Profiles</th>
   </tr>
   <tr>
