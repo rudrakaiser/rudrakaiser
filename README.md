@@ -26,7 +26,7 @@ https://git.io/typing-svg -->
     <th colspan="8">My Profiles</th>
   </tr>
   <tr>
-    <td>
+    <td align="center">
       <a href="https://codeforces.com/profile/rudra_kaiser">
         <img src="https://github.com/rudra-404/rudra-404/blob/main/assets/codeforces.svg" alt='CodeForces' height='40'>
       </a>
