@@ -10,6 +10,10 @@ https://git.io/typing-svg -->
 - I believe that every line of code tells a story.
 - My journey in programming is driven by a blend of creativity and logic, where I transform my ideas into reality.
 
+### 🚀 About Me  
+
+Hi there! 👋 I'm a **competitive programmer** and **problem solver** passionate about algorithms, data structures, and optimization. Currently, I'm pursuing my **Bachelor’s degree in Computer Science & Engineering** at **Premier University, Chittagong**.  
+
 <!--
 - I’m currently learning Mobile App Development
 - I’m looking to collaborate on GitHub
