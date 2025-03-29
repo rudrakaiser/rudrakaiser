@@ -125,7 +125,7 @@ dark : [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&them
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudra-404&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="rudra-404" /> &nbsp; <img align="center" src="https://nirzak-streak-stats.vercel.app/?user=rudra-404&theme=highcontrast&hide_border=false" alt="rudra-404" /></p>
 <!-- This Section : https://gprm.itsvg.in -->
 
-<p align="center"><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rudra-404&theme=dracula" alt="rudra-404" /></p>
+<p align="center"><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rudra-404&theme=agolia" alt="rudra-404" /></p>
 <!-- This Section : https://github-profile-summary-cards.vercel.app/ -->
 
 <!--
