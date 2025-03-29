@@ -88,7 +88,7 @@ dark : [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&them
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rudra-404)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
-<div id="experties"><br>
+<div id="experties">
 
 <!--
 
