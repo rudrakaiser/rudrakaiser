@@ -11,7 +11,7 @@ Bannar
 ![Frontend Developer](assets/bannar.png)
 -->
 
-<p><font style="font-family: monospace">I'm a **Competitive Programmer** and **Problem Solver** passionate about algorithms, data structures, and optimization. Currently, I'm pursuing my **Bachelor’s degree in Computer Science & Engineering** at **Premier University**.</font></p>
+I'm a **Competitive Programmer** and **Problem Solver** passionate about algorithms, data structures, and optimization. Currently, I'm pursuing my **Bachelor’s degree in Computer Science & Engineering** at **Premier University**.   
 
 - I believe that every line of code tells a story.
 - My journey in programming is driven by a blend of creativity and logic, where I transform my ideas into reality.
