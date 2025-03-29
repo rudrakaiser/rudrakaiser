@@ -27,6 +27,7 @@ I'm a **Competitive Programmer** and **Problem Solver** passionate about algorit
 |-|-|-|-|-|-|-|
 -->
 
+<br>
 <table align="center">
   <tr>
     <th colspan="8"><img src="./assets/pointing.gif" width="30px" align="center"> Explore My Work</th>
