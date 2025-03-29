@@ -12,7 +12,7 @@ Bannar
 -->
 
 - 👤 I'm a Competitive Programmer and Problem Solver passionate about algorithms, data structures, and optimization. I believe that every line of code tells a story. And my journey in programming is driven by a blend of creativity and logic, where I transform my ideas into reality.
-- Currently, I'm pursuing my <b>Bachelor's degree</b> in <b>Computer Science & Engineering</b> at <b>Premier University</b>.
+- 🎓 Currently, I'm pursuing my <b>Bachelor's degree</b> in <b>Computer Science & Engineering</b> at <b>Premier University</b>.
 
 <!-- <a href="#"><img src="assets/code.gif" alt='CODE'/></a> -->
 
