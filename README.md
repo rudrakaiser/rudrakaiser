@@ -126,6 +126,9 @@ dark : [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&them
 <p align="center"><a href="https://codeforces.com/profile/rudra_kaiser"><img align="center" src="https://codeforces-readme-stats.vercel.app/api/card?username=rudra_kaiser&theme=radical&disable_animations=false&show_icons=true&force_username=true" alt="rudra_kaiser" /></a></p>
 <!-- This Section : https://codeforces-readme-stats.vercel.app/ -->
 
+[![rudra_kaiser's atcoder stats](https://atcoder-readme-stats.vercel.app/stats/rudra_kaiser)](https://github.com/iwbc-mzk/atcoder-readme-stats)
+
+
 <p align="center"><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rudra-404&theme=vision_friendly_dark" alt="rudra-404" /> &nbsp; <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rudra-404&theme=vision_friendly_dark" alt="rudra-404" /></p>
 <!-- This Section : https://github-profile-summary-cards.vercel.app/  theme : vision_friendly_dark-->
 
