@@ -19,7 +19,7 @@ I'm a **Competitive Programmer** and **Problem Solver** passionate about algorit
 <br>
 <table align="center">
   <tr>
-    <th colspan="9" style="font-size: 20px"><img src="./assets/pointing.gif" width="30px" align="center"> Explore My Work</th>
+    <th colspan="9" style="font-size: 100px"><img src="./assets/pointing.gif" width="30px" align="center"> Explore My Work</th>
   </tr>
   <tr>
     <td align="center">
