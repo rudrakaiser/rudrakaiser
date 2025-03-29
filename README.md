@@ -18,7 +18,7 @@ data structures, and optimization. I love tackling coding challenges and refinin
 my problem-solving skills. Currently, I'm pursuing my <b>Bachelor's degree</b> in
 <b>Computer Science & Engineering</b> at <b>Premier University</b>.</td>
     <td>
-      <a href="#"><img src="assets/code.gif" alt='CODE' width="300px"/></a>
+      <a href="#"><img src="assets/code.gif" alt='CODE' width="600px"/></a>
     </td>
   </tr>
 </table>
