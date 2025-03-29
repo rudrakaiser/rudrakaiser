@@ -6,7 +6,10 @@ Hi, emoji with googles ----- <img src="https://emojis.slackmojis.com/emojis/imag
 ![Typing SVG](https://readme-typing-svg.demolab.com/?font=Kanit&duration=4000&pause=500&color=37BDBD&width=435&lines=Competitive+Programmer;Problem+Solver;Self+Learner;Good+Listener;Detail+Oriented;Continuous+Learner)
 https://git.io/typing-svg -->
 
+<!--
+Bannar
 ![Frontend Developer](assets/bannar.png)
+-->
 
 - I believe that every line of code tells a story.
 - My journey in programming is driven by a blend of creativity and logic, where I transform my ideas into reality.
