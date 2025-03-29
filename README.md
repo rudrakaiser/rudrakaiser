@@ -131,10 +131,6 @@ GitHub : Trophie
 <!-- This Section : https://gprm.itsvg.in -->
 
 <p align="center">
-  <a href="#"><img align="center" src="assets/code.gif" alt='CODE'" alt="rudra-404" /></a>
-</p>
-
-<p align="center">
  <a href="#"><img width="1000" src="assets/snake.svg" alt="snake"/></a>
 </p>
 
