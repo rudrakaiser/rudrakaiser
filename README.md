@@ -82,18 +82,10 @@ I'm a **Competitive Programmer** and **Problem Solver** passionate about algorit
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/rudra-404)    [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/rudra-kaiser-931b5b2b0?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app/)    [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/johan.edal?mibextid=ZbWKwL)    [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/rudra.kaiser?igsh=YmkzZ281anAzZWRu/)    [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg' alt='codeforces' height='40'>](https://codeforces.com/profile/rudra_kaiser) 
 
--->
-
----
-
-<!--
 light : [![trophy](https://github-profile-trophy.vercel.app/?username=ryo)](https://github.com/ryo-ma/github-profile-trophy)
 
 dark : [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
--->
 
-
-<!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rudra-404)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
