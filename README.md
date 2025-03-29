@@ -13,14 +13,12 @@ Bannar
 
 <table>
   <tr>
-    <td style="text-align: justify">
-      <pre>I'm a Competitive Programmer and Problem Solver passionate about algorithms,
+    <td style="text-align: justify"> I'm a Competitive Programmer and Problem Solver passionate about algorithms,
 data structures, and optimization. I love tackling coding challenges and refining
 my problem-solving skills. Currently, I'm pursuing my <b>Bachelor's degree</b> in
-<b>Computer Science & Engineering</b> at <b>Premier University</b>.</pre>
-    </td>
+<b>Computer Science & Engineering</b> at <b>Premier University</b>.</td>
     <td>
-      <img src="assets/code.gif" alt='CODE'>
+      <a href="#"><img src="assets/code.gif" alt='CODE' /></a>
     </td>
   </tr>
 </table>
