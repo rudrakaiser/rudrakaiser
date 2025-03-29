@@ -17,7 +17,7 @@ Bannar
       I'm a Competitive Programmer and Problem Solver passionate about algorithms, data structures, and optimization. Currently, I'm pursuing my Bachelor’s degree in Computer Science & Engineering at Premier University.
     </td>
     <td>
-      <img src="assets/code.gif" alt='CODE' height='400'>
+      <img src="assets/code.gif" alt='CODE'>
     </td>
   </tr>
 </table>
