@@ -11,8 +11,6 @@ Bannar
 ![Frontend Developer](assets/bannar.png)
 -->
 
-### About Me  
-
 I'm a **Competitive Programmer** and **Problem Solver** passionate about algorithms, data structures, and optimization. Currently, I'm pursuing my **Bachelor’s degree in Computer Science & Engineering** at **Premier University, Chittagong**.  
 
 - I believe that every line of code tells a story.
