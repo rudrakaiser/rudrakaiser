@@ -108,13 +108,14 @@ dark : [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&them
 </div>
 
 <p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=rudra-404&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="rudra-404" /> </p>
-<p align="center"> <a href="#"><img src="https://github-profile-trophy.vercel.app/?username=rudra-404&theme=vision-friendly-dark" alt="rudra-404" /></a></p>
+<!-- This Section : https://gprm.itsvg.in -->
+
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rudra-404&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="rudra-404" /> &nbsp; <img align="center" src="https://github-readme-stats.vercel.app/api?username=rudra-404&show_icons=true&locale=en&theme=vision-friendly-dark" alt="rudra-404" /></p>
+
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rudra-404&theme=vision-friendly-dark" alt="rudra-404" /></p>
 
-<!--
-This Section : https://rahuldkjain.github.io/gh-profile-readme-generator/
--->
+<!-- This Section : https://rahuldkjain.github.io/gh-profile-readme-generator/ -->
+<!-- This Section : https://gprm.itsvg.in -->
 
 ---
 
