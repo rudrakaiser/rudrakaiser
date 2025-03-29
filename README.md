@@ -119,14 +119,14 @@ dark : [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&them
 
 </div><br><br>
 
+<p align="center"><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rudra-404&theme=algolia" alt="rudra-404" /></p>
+<!-- This Section : https://github-profile-summary-cards.vercel.app/ -->
+
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=rudra-404&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="rudra-404" /> </p>
 <!-- This Section : https://gprm.itsvg.in -->
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudra-404&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="rudra-404" /> &nbsp; <img align="center" src="https://nirzak-streak-stats.vercel.app/?user=rudra-404&theme=highcontrast&hide_border=false" alt="rudra-404" /></p>
 <!-- This Section : https://gprm.itsvg.in -->
-
-<p align="center"><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rudra-404&theme=algolia" alt="rudra-404" /></p>
-<!-- This Section : https://github-profile-summary-cards.vercel.app/ -->
 
 <!--
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=rudra-404&theme=blue-green&hide_border=true&include_all_commits=true&count_private=true" alt="rudra-404" /></p>
