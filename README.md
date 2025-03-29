@@ -107,21 +107,14 @@ dark : [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&them
 
 </div>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rudra-404&label=Profile%20views&color=0e75b6&style=flat" alt="rudra-404" /> </p>
+<p align="center"> <a href="#"><img src="https://github-profile-trophy.vercel.app/?username=rudra-404&theme=vision-friendly-dark" alt="rudra-404" /></a></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rudra-404&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="rudra-404" /> &nbsp; <img align="center" src="https://github-readme-stats.vercel.app/api?username=rudra-404&show_icons=true&locale=en&theme=vision-friendly-dark" alt="rudra-404" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rudra-404&theme=vision-friendly-dark" alt="rudra-404" /></p>
 
 <!--
-<p align="center">
-  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=rudra-404&show_icons=true&theme=vision-friendly-dark">
-  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudra-404&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark">
-</p>
+This Section : https://rahuldkjain.github.io/gh-profile-readme-generator/
 -->
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rudra-404&label=Profile%20views&color=0e75b6&style=flat" alt="rudra-404" /> </p>
-
-<p align="center"> <a href="#"><img src="https://github-profile-trophy.vercel.app/?username=rudra-404&theme=vision-friendly-dark" alt="rudra-404" /></a></p>
-
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rudra-404&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="rudra-404" /> &nbsp; <img align="center" src="https://github-readme-stats.vercel.app/api?username=rudra-404&show_icons=true&locale=en&theme=vision-friendly-dark" alt="rudra-404" /></p>
-
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rudra-404&theme=vision-friendly-dark" alt="rudra-404" /></p>
 
 ---
 
@@ -129,10 +122,6 @@ dark : [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&them
  <a href="#experties"><img width="1000" src="assets/snake.svg" alt="snake"/></a>
 </p>
 
-
-
 <!--
-
 Dev Icon Link  :  https://github.com/devicons/devicon/blob/master/icons/
-
 -->
