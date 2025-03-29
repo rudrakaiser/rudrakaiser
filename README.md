@@ -11,12 +11,12 @@ Bannar
 ![Frontend Developer](assets/bannar.png)
 -->
 
-- I believe that every line of code tells a story.
-- My journey in programming is driven by a blend of creativity and logic, where I transform my ideas into reality.
-
 ### <img src="assets/hi_man.gif" width="30px" align="center"> About Me  
 
 I'm a **Competitive Programmer** and **Problem Solver** passionate about algorithms, data structures, and optimization. Currently, I'm pursuing my **Bachelor’s degree in Computer Science & Engineering** at **Premier University, Chittagong**.  
+
+- I believe that every line of code tells a story.
+- My journey in programming is driven by a blend of creativity and logic, where I transform my ideas into reality.
 
 <!--
 - I’m currently learning Mobile App Development
