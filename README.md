@@ -133,7 +133,7 @@ Dev Icon Link  :  https://github.com/devicons/devicon/blob/master/icons/
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rudra-404&label=Profile%20views&color=0e75b6&style=flat" alt="rudra-404" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy&theme=vision-friendly-dark"><img src="https://github-profile-trophy.vercel.app/?username=rudra-404" alt="rudra-404" /></a> </p>
+<p align="left"> <a href="#"><img src="https://github-profile-trophy.vercel.app/?username=rudra-404&theme=vision-friendly-dark" alt="rudra-404" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
