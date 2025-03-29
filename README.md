@@ -1,7 +1,8 @@
-<h1 align="center">Hi <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> I'm Rudra Kaiser</h1>
+<h1 align="center">Hi <img src="assets/hi_hand.gif" width="35px"> I'm Rudra Kaiser</h1>
 
 <p align="center"><img src="https://readme-typing-svg.demolab.com/?font=Kanit&duration=4000&pause=1000&color=37BDBD&width=435&lines=Competitive+Programmer;Problem+Solver;Self+Learner;Good+Listener;Detail+Oriented;Continuous+Learner&center=true&width=500&height=45" alt="rudra-404"></p>
 <!--
+Hi, emoji with googles ----- <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
 ![Typing SVG](https://readme-typing-svg.demolab.com/?font=Kanit&duration=4000&pause=500&color=37BDBD&width=435&lines=Competitive+Programmer;Problem+Solver;Self+Learner;Good+Listener;Detail+Oriented;Continuous+Learner)
 https://git.io/typing-svg -->
 
@@ -10,7 +11,7 @@ https://git.io/typing-svg -->
 - I believe that every line of code tells a story.
 - My journey in programming is driven by a blend of creativity and logic, where I transform my ideas into reality.
 
-### 🚀 About Me  
+### <img src="https://i.postimg.cc/J4nzTh7r/man-raising-hand.gif" style="padding-bottom: 10px" width="40px" align="center"> About Me  
 
 Hi there! 👋 I'm a **competitive programmer** and **problem solver** passionate about algorithms, data structures, and optimization. Currently, I'm pursuing my **Bachelor’s degree in Computer Science & Engineering** at **Premier University, Chittagong**.  
 
