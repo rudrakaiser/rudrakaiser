@@ -11,7 +11,7 @@ Bannar
 ![Frontend Developer](assets/bannar.png)
 -->
 
-## <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" style="margin-top:30px;" width="30"/> About Me  
+## <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" style="padding-bottom: 20px;" width="30"/> About Me  
 
 I'm a **Competitive Programmer** and **Problem Solver** passionate about algorithms, data structures, and optimization. Currently, I'm pursuing my **Bachelor’s degree in Computer Science & Engineering** at **Premier University, Chittagong**.  
 
