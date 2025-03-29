@@ -15,11 +15,11 @@ Bannar
   <tr>
     <td>
       I'm a Competitive Programmer and Problem Solver passionate about algorithms, data structures, and optimization. I love tackling coding challenges and refining my problem-solving skills. Currently, I'm pursuing my <b>Bachelor's degree</b> in
-<b>Computer Science & Engineering</b> at <b>Premier University</b>.<br>
-      <ui>
+<b>Computer Science & Engineering</b> at <b>Premier University</b>.<br><br>
+      <ul>
         <li>I believe that every line of code tells a story.</li>
         <li>My journey in programming is driven by a blend of creativity and logic, where I transform my ideas into reality.</li>
-      </ui>
+      </ul>
     </td>
     <td>
       <a href="#"><img src="assets/code.gif" alt='CODE' width="400px"/></a>
