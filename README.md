@@ -18,7 +18,7 @@ Bannar
 <br>
 <table align="center">
   <tr>
-    <th colspan="9"><a href="#"><img src="./assets/pointing.gif" width="30px" align="center"></a> Explore My Work</th>
+    <th colspan="8"><a href="#"><img src="./assets/pointing.gif" width="30px" align="center"></a> Explore My Work</th>
   </tr>
   <tr>
     <td align="center">
@@ -56,11 +56,11 @@ Bannar
         <img src="https://github.com/CLorant/readme-social-icons/blob/main/large/colored/facebook.svg" alt='facebook' height='40'>
       </a>
     </td>
-    <td>
+<!--     <td>
       <a href="https://www.instagram.com/rudra.kaiser?igsh=YmkzZ281anAzZWRu/">
         <img src="https://github.com/CLorant/readme-social-icons/blob/main/large/colored/instagram.svg" alt='Instagram' height='40'>
       </a>
-    </td>
+    </td> -->
     <td>
       <a href="https://www.youtube.com/@rudrakaiser">
         <img src="assets/youtube.svg" alt='YouTube' height='40'>
