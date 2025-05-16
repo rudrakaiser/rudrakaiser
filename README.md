@@ -43,7 +43,7 @@ Bannar
     </td>
     <td>
       <a href="https://judge.beecrowd.com/en/profile/987444">
-        <img src="https://github.com/rudra-404/rudra-404/blob/main/assets/beecrowd.png" alt='BeeCrowd' height='40'>
+        <img src="https://github.com/rudra-404/rudra-404/blob/main/assets/beecrowd.png" alt='BeeCrowd' height='40' width='40'>
       </a>
     </td>
     <td>
