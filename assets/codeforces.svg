@@ -1,0 +1,10 @@
+<svg width="120" height="120" viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <!-- Yellow Bar -->
+  <rect x="10" y="32" width="30" height="70" rx="5" fill="#fbbc04" />
+
+  <!-- Blue Bar -->
+  <rect x="45" y="12" width="30" height="90" rx="5" fill="#4285f4" />
+
+  <!-- Red Bar -->
+  <rect x="80" y="52" width="30" height="50" rx="5" fill="#ea4335" />
+</svg>
