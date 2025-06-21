@@ -25,27 +25,27 @@ Bannar
   <tr>
     <td align="center">
       <a href="https://codeforces.com/profile/rudra_kaiser">
-        <img src="https://github.com/rudra-404/rudra-404/blob/main/assets/codeforces.svg" alt='CodeForces' height='40'>
+        <img src="https://github.com/rudrakaiser/rudrakaiser/blob/main/assets/codeforces.svg" alt='CodeForces' height='40'>
       </a>
     </td>
     <td>
       <a href="https://atcoder.jp/users/rudra_kaiser">
-        <img src="https://github.com/rudra-404/rudra-404/blob/main/assets/atcoder.svg" alt='AtCoder' height='40'>
+        <img src="https://github.com/rudrakaiser/rudrakaiser/blob/main/assets/atcoder.svg" alt='AtCoder' height='40'>
       </a>
     </td>
     <td>
       <a href="https://leetcode.com/u/rudra_kaiser/">
-        <img src="https://github.com/rudra-404/rudra-404/blob/main/assets/leetcode.svg" alt='AtCoder' height='40'>
+        <img src="https://github.com/rudrakaiser/rudrakaiser/blob/main/assets/leetcode.svg" alt='AtCoder' height='40'>
       </a>
     </td>
     <td>
       <a href="http://www.hackerrank.com/profile/rudrakaiser90">
-        <img src="https://github.com/rudra-404/rudra-404/blob/main/assets/hackerrank.svg" alt='HackerRank' height='40'>
+        <img src="https://github.com/rudrakaiser/rudrakaiser/blob/main/assets/hackerrank.svg" alt='HackerRank' height='40'>
       </a>
     </td>
     <td>
       <a href="https://judge.beecrowd.com/en/profile/987444">
-        <img src="https://github.com/rudra-404/rudra-404/blob/main/assets/beecrowd.png" alt='BeeCrowd' height='40' width='40'>
+        <img src="https://github.com/rudrakaiser/rudrakaiser/blob/main/assets/beecrowd.png" alt='BeeCrowd' height='40' width='40'>
       </a>
     </td>
     <td>
