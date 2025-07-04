@@ -106,8 +106,8 @@ dark : [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&them
 
 <br>
 
-<p align="center"><a href="#"><img align="center" src="xxx" alt="rudrakaiser" /></a> &nbsp; <a href="#"><img align="center" src="xxx" alt="rudrakaiser" /></a></p>
-<!--https://github-readme-stats.vercel.app/api/top-langs/?username=rudrakaiser&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact-->
+<p align="center"><a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudrakaiser&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="rudrakaiser" /></a> &nbsp; <a href="#"><img align="center" src="xxx" alt="rudrakaiser" /></a></p>
+<!---->
 <!--https://nirzak-streak-stats.vercel.app/?user=rudrakaiser&theme=black-ice&hide_border=false-->
 <!-- This Section : https://gprm.itsvg.in   theme : highcontrast-->
 
