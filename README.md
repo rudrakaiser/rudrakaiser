@@ -1,6 +1,6 @@
 <h1 align="center">Hi <a href="#"><img src="assets/hi_man.gif" width="40px" align="center"></a> I'm Rudra Kaiser</h1>
 
-<p align="center"><a href="#"><img src="https://readme-typing-svg.demolab.com/?font=Kanit&duration=4000&pause=1000&color=37BDBD&width=435&lines=Competitive+Programmer;Problem+Solver;Self+Learner;Good+Listener;Detail+Oriented;Continuous+Learner&center=true&width=500&height=30" alt="rudra-404"></a></a></p>
+<p align="center"><a href="#"><img src="https://readme-typing-svg.demolab.com/?font=Kanit&duration=4000&pause=1000&color=37BDBD&width=435&lines=Competitive+Programmer;Problem+Solver;Self+Learner;Good+Listener;Detail+Oriented;Continuous+Learner&center=true&width=500&height=30" alt="rudrakaiser"></a></a></p>
 <!--
 Hi, emoji with googles ----- <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
 ![Typing SVG](https://readme-typing-svg.demolab.com/?font=Kanit&duration=4000&pause=500&color=37BDBD&width=435&lines=Competitive+Programmer;Problem+Solver;Self+Learner;Good+Listener;Detail+Oriented;Continuous+Learner)
@@ -23,27 +23,27 @@ Bannar
   <tr>
     <td align="center">
       <a href="https://codeforces.com/profile/rudra_kaiser">
-        <img src="https://github.com/rudra-404/rudra-404/blob/main/assets/codeforces.svg" alt='CodeForces' height='40'>
+        <img src="https://github.com/rudrakaiser/rudrakaiser/blob/main/assets/codeforces.svg" alt='CodeForces' height='40'>
       </a>
     </td>
     <td>
       <a href="https://atcoder.jp/users/rudra_kaiser">
-        <img src="https://github.com/rudra-404/rudra-404/blob/main/assets/atcoder.svg" alt='AtCoder' height='40'>
+        <img src="https://github.com/rudrakaiser/rudrakaiser/blob/main/assets/atcoder.svg" alt='AtCoder' height='40'>
       </a>
     </td>
     <td>
       <a href="https://leetcode.com/u/rudra_kaiser/">
-        <img src="https://github.com/rudra-404/rudra-404/blob/main/assets/leetcode.svg" alt='AtCoder' height='40'>
+        <img src="https://github.com/rudrakaiser/rudrakaiser/blob/main/assets/leetcode.svg" alt='AtCoder' height='40'>
       </a>
     </td>
     <td>
       <a href="http://www.hackerrank.com/profile/rudrakaiser90">
-        <img src="https://github.com/rudra-404/rudra-404/blob/main/assets/hackerrank.svg" alt='HackerRank' height='40'>
+        <img src="https://github.com/rudrakaiser/rudrakaiser/blob/main/assets/hackerrank.svg" alt='HackerRank' height='40'>
       </a>
     </td>
     <td>
       <a href="https://judge.beecrowd.com/en/profile/987444">
-        <img src="https://github.com/rudra-404/rudra-404/blob/main/assets/beecrowd.png" alt='BeeCrowd' height='40' width='40'>
+        <img src="https://github.com/rudrakaiser/rudrakaiser/blob/main/assets/beecrowd.png" alt='BeeCrowd' height='40' width='40'>
       </a>
     </td>
     <td>
@@ -72,13 +72,13 @@ Bannar
 
 <!--
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/rudra-404)    [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/rudra-kaiser-931b5b2b0?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app/)    [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/johan.edal?mibextid=ZbWKwL)    [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/rudra.kaiser?igsh=YmkzZ281anAzZWRu/)    [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg' alt='codeforces' height='40'>](https://codeforces.com/profile/rudra_kaiser) 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/rudrakaiser)    [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/rudra-kaiser-931b5b2b0?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app/)    [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/johan.edal?mibextid=ZbWKwL)    [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/rudra.kaiser?igsh=YmkzZ281anAzZWRu/)    [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg' alt='codeforces' height='40'>](https://codeforces.com/profile/rudra_kaiser) 
 
 light : [![trophy](https://github-profile-trophy.vercel.app/?username=ryo)](https://github.com/ryo-ma/github-profile-trophy)
 
 dark : [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rudra-404)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rudrakaiser)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
 <!--
@@ -106,10 +106,10 @@ dark : [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&them
 
 <br>
 
-<p align="center"><a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudra-404&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="rudra-404" /></a> &nbsp; <a href="#"><img align="center" src="https://nirzak-streak-stats.vercel.app/?user=rudra-404&theme=black-ice&hide_border=false" alt="rudra-404" /></a></p>
+<p align="center"><a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudrakaiser&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="rudrakaiser" /></a> &nbsp; <a href="#"><img align="center" src="https://nirzak-streak-stats.vercel.app/?user=rudrakaiser&theme=black-ice&hide_border=false" alt="rudrakaiser" /></a></p>
 <!-- This Section : https://gprm.itsvg.in   theme : highcontrast-->
 
-<p align="center"><a href="#"><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rudra-404&theme=codeSTACKr" alt="rudra-404" /></a></p>
+<p align="center"><a href="#"><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rudrakaiser&theme=codeSTACKr" alt="rudrakaiser" /></a></p>
 <!-- This Section : https://github-profile-summary-cards.vercel.app/  theme : vision_friendly_dark-->
 
 <h2 align="center"><a href="#"><img src="./assets/rocket.gif" width="40px" align="center"></a> My CodeForces Progress</h2>
@@ -118,13 +118,13 @@ dark : [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&them
 
 
 <!--
-<p align="center"><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rudra-404&theme=vision_friendly_dark" alt="rudra-404" /> &nbsp; <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rudra-404&theme=vision_friendly_dark" alt="rudra-404" /></p>
+<p align="center"><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rudrakaiser&theme=vision_friendly_dark" alt="rudrakaiser" /> &nbsp; <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rudrakaiser&theme=vision_friendly_dark" alt="rudrakaiser" /></p>
 -->
 <!-- This Section : https://github-profile-summary-cards.vercel.app/  theme : vision_friendly_dark-->
 
 <!--
 GitHub : Trophie
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=rudra-404&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="rudra-404" /> </p>
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=rudrakaiser&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="rudrakaiser" /> </p>
 -->
 <!-- This Section : https://gprm.itsvg.in -->
 
@@ -136,7 +136,7 @@ GitHub : Trophie
 Special Picture :
 
 <p align="center">
-  <a href="#"><img align="center" src="assets/effect.gif" alt='CODE'" alt="rudra-404" /></a>
+  <a href="#"><img align="center" src="assets/effect.gif" alt='CODE'" alt="rudrakaiser" /></a>
 </p>
 
 Dev Icon Link  :  https://github.com/devicons/devicon/blob/master/icons/
