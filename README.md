@@ -33,7 +33,7 @@ Bannar
     </td>
     <td>
       <a href="https://leetcode.com/u/rudra_kaiser/">
-        <img src="https://github.com/rudrakaiser/rudrakaiser/blob/main/assets/leetcode.svg" alt='AtCoder' height='40'>
+        <img src="https://github.com/rudrakaiser/rudrakaiser/blob/main/assets/leetcode.svg" alt='LeetCode' height='40'>
       </a>
     </td>
     <td>
