@@ -28,7 +28,7 @@ Bannar
     </td>
     <td>
       <a href="https://atcoder.jp/users/rudra_kaiser">
-        <img src="https://github.com/rudrakaiser/rudrakaiser/assets/atcoder.svg" alt='AtCoder' height='40'>
+        <img src="https://github.com/rudrakaiser/rudrakaiser/blob/main/assets/atcoder.svg" alt='AtCoder' height='40'>
       </a>
     </td>
     <td>
