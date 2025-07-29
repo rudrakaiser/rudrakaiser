@@ -63,7 +63,7 @@ Bannar
     </td> -->
     <td>
       <a href="https://www.youtube.com/@rudrakaiser">
-        <img src="assets/youtube.svg" alt='YouTube' height='40'>
+        <img src="https://github.com/rudrakaiser/rudrakaiser/blob/main/assets/youtube.svg" alt='YouTube' height='40'>
       </a>
     </td>
   </tr>
