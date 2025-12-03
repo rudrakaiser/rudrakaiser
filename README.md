@@ -149,7 +149,7 @@ GitHub : Trophie
 <!-- This Section : https://gprm.itsvg.in -->
 
 <p align="center">
- <a href="#"><img width="1000" src="assets/snake.svg" alt="snake"/></a>
+ <a href="#"><img width="1000" src="assets/pacman.svg" alt="snake"/></a>
 </p>
 
 <!--
