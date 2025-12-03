@@ -28,12 +28,12 @@ Bannar
     </td>
     <td>
       <a href="https://atcoder.jp/users/rudra_kaiser">
-        <img src="assets/atcoder.svg" alt='AtCoder' height='40'>
+        <img src="assets/ac.svg" alt='AtCoder' height='40'>
       </a>
     </td>
     <td>
       <a href="https://leetcode.com/u/rudra_kaiser/">
-        <img src="assets/leetcode.svg" alt='LeetCode' height='40'>
+        <img src="assets/lc.svg" alt='LeetCode' height='40'>
       </a>
     </td>
     <td>
@@ -63,7 +63,7 @@ Bannar
     </td> -->
     <td>
       <a href="https://www.youtube.com/@rudrakaiser">
-        <img src="assets/youtube.svg" alt='YouTube' height='40'>
+        <img src="assets/yt.svg" alt='YouTube' height='40'>
       </a>
     </td>
   </tr>
